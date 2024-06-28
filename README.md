@@ -3,6 +3,8 @@ Predict the color of cars in the traffic, with a specific rule to swap red and b
 
 As the KERAS file was above 25mb i could not upload so run the notebook model in your system and save the file.
 
+To download the KERAS model click [here](https://drive.google.com/file/d/1sTFzetMULi5LPpsbHAWowFM89n0jAa4v/view?usp=drive_link)
+
 To see the Demonstration Video click [here](https://drive.google.com/file/d/1EKfJAcJJK7KywjKumtImKeMVvJVv2LrU/view?usp=drive_link) 
 
 ## To Run this model yourself:
